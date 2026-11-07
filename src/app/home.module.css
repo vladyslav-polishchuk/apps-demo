@@ -1,0 +1,53 @@
+.home {
+  display: grid;
+  place-items: center;
+  min-height: 100svh;
+  padding: 2rem;
+  background: #f3f4f7;
+  color: #1c2330;
+}
+
+.content {
+  width: min(100%, 42rem);
+  padding: clamp(1.5rem, 6vw, 4rem);
+  border: 1px solid #d6dbe4;
+  border-radius: 1rem;
+  background: #fff;
+}
+
+.eyebrow {
+  margin: 0 0 1rem;
+  color: #425878;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.content h1 {
+  margin: 0;
+  font-size: clamp(2.5rem, 8vw, 4rem);
+  letter-spacing: -0.06em;
+  line-height: 1.05;
+}
+
+.description {
+  max-width: 31ch;
+  margin: 1.25rem 0 2rem;
+  color: #454f61;
+  font-size: 1.125rem;
+}
+
+.link {
+  display: inline-block;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  background: #223e64;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.link:hover {
+  background: #172d4a;
+}
