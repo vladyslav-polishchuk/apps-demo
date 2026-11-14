@@ -1,0 +1,92 @@
+{
+  "listing": "https://www.airbnb.co.in/rooms/1605882954313683712",
+  "retrieved": "2026-11-14",
+  "photos": [
+    {
+      "index": 0,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/48fa896a-8372-42aa-836d-78cb65edbf73.png",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "index": 1,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/4feeff48-a2d7-4942-9911-b437a3e3c541.png",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "index": 2,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/a2e57526-3ab4-41bf-89c4-24630985b8cc.jpeg",
+      "width": 5496,
+      "height": 3670
+    },
+    {
+      "index": 7,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/63301632-ac9a-4fac-a93c-6aeec4361702.jpeg",
+      "width": 3648,
+      "height": 2432
+    },
+    {
+      "index": 11,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/dc1d9815-c461-49b9-8928-06a1f3cf4504.jpeg",
+      "width": 3436,
+      "height": 2432
+    },
+    {
+      "index": 14,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/1635e46a-8310-49d7-8542-481e4abe0cd3.jpeg",
+      "width": 3648,
+      "height": 2432
+    },
+    {
+      "index": 17,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/11201a85-694d-47a9-9c10-5f36fd50fc72.jpeg",
+      "width": 3646,
+      "height": 2431
+    },
+    {
+      "index": 19,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/4b06af4d-e006-469b-a456-4ad8e843efc1.jpeg",
+      "width": 5496,
+      "height": 3670
+    },
+    {
+      "index": 21,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/3bdc465f-2634-480f-843b-7a921aefc680.jpeg",
+      "width": 5496,
+      "height": 3670
+    },
+    {
+      "index": 24,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/c1011555-3aeb-42a9-b93b-4e13be4f9b89.png",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "index": 25,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/ba3d9445-c48f-4c07-a70b-546ffeace8e5.jpeg",
+      "width": 3536,
+      "height": 2400
+    },
+    {
+      "index": 27,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/7cee9352-f859-4ae8-a7e0-0f7b5efa5506.jpeg",
+      "width": 3648,
+      "height": 2432
+    },
+    {
+      "index": 31,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/e8e2a28b-5aa9-4a5a-92d1-99dc65953836.png",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "index": 32,
+      "source": "https://a0.muscache.com/pictures/hosting/Hosting-1605882954313683712/original/baa3289f-d6fc-4eca-bc40-333d38ea2ab7.png",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "comparison_listing": "https://www.vrbo.com/5085434",
+  "notes": "Original files were compared with Vrbo. The available pool and exterior originals are 1536 \u00d7 1024; several interior and terrace originals are up to 5496 \u00d7 3670. Responsive WebP derivatives are capped at 2560 pixels, with 800-pixel alternatives. No images are enlarged."
+}

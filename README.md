@@ -13,6 +13,10 @@ npm run dev
 
 Open `http://localhost:3000` for the home page or `http://localhost:3000/preview/juniper-cafe` for the fictional café example.
 
+The Villa Marex demo is available at `http://localhost:3000/preview/villa-marex`. It is entirely frontend-only, with a responsive photo gallery, day/night photo transitions, a date-range picker and guest selection. Booking links pass the selected dates and guest count to the property's real listings; no reservation, email, payment or database operation happens in the demo.
+
+Villa photographs and fonts are self-hosted. Original photo URLs and dimensions are recorded in `public/villa-marex/photo-sources.json`. The pool photographs available on the listings are 1536 × 1024; interior and terrace originals reach 5496 × 3670. Responsive WebP versions are served without enlarging the originals.
+
 ```sh
 npm run lint
 npm run typecheck
